@@ -1,2 +1,4 @@
 Staging test 
 Testing the commit thingy where I forget to add the message command
+test again 
+Is this where I can write my message? 
