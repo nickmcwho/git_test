@@ -1,1 +1,2 @@
 Staging test 
+Testing the commit thingy where I forget to add the message command
